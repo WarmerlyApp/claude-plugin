@@ -1,4 +1,21 @@
-# Warmerly for Claude
+<p align="center">
+  <img src=".github/warmerly-icon.png" alt="Warmerly" width="96" height="96">
+</p>
+
+<h1 align="center">Warmerly for Claude</h1>
+
+<p align="center">
+  Cold email outreach, deliverability and reply triage from inside Claude.<br>
+  <a href="https://warmerly.com/ai">Website</a> ·
+  <a href="https://docs.warmerly.com/ai">Docs</a> ·
+  <a href="https://github.com/WarmerlyApp/mcp">Other AI clients</a>
+</p>
+
+<p align="center">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-a34f1d">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-streamable%20HTTP-a34f1d">
+  <img alt="Claude Code plugin" src="https://img.shields.io/badge/Claude%20Code-plugin-a34f1d">
+</p>
 
 The official [Warmerly](https://warmerly.com) plugin for Claude. It connects Claude to your
 Warmerly workspace over MCP and adds four workflow skills for cold email outreach.
