@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "warmerly": {
+      "type": "http",
+      "url": "https://app.warmerly.com/api/mcp"
+    }
+  }
+}

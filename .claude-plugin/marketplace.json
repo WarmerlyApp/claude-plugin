@@ -1,0 +1,29 @@
+{
+  "name": "warmerly",
+  "owner": {
+    "name": "Warmerly",
+    "url": "https://warmerly.com"
+  },
+  "description": "Warmerly's Claude Code plugin: the Warmerly MCP server plus workflow skills.",
+  "plugins": [
+    {
+      "name": "warmerly",
+      "source": "./",
+      "description": "Warmerly MCP server and skills for outreach campaigns, deliverability, reply triage and transactional email.",
+      "version": "0.1.1",
+      "author": {
+        "name": "Warmerly",
+        "url": "https://warmerly.com"
+      },
+      "homepage": "https://warmerly.com",
+      "category": "productivity",
+      "keywords": [
+        "email",
+        "outreach",
+        "deliverability",
+        "mcp"
+      ],
+      "repository": "https://github.com/WarmerlyApp/claude-plugin"
+    }
+  ]
+}
