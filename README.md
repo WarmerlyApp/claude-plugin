@@ -70,12 +70,19 @@ them, namespaced as `warmerly:launch-outreach-campaign` and so on.
   dashboard.
 - You can revoke the connection any time under Settings → Connected apps in Warmerly.
 
+## Privacy
+
+Warmerly's privacy policy: https://warmerly.com/privacy. The plugin itself stores nothing; the MCP
+server acts only in the one workspace you authorise, and every write is recorded in that
+workspace's audit log.
+
 ## Layout
 
 ```text
 .claude-plugin/plugin.json       plugin manifest
 .claude-plugin/marketplace.json  single-plugin marketplace (source "./")
 .mcp.json                        the Warmerly MCP server
+assets/icon.svg                  plugin icon
 skills/<name>/SKILL.md           one workflow per skill
 build-skill-zips.mjs             zips each skill for claude.ai (no dependencies)
 ```

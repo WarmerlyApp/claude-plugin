@@ -10,7 +10,7 @@
       "name": "warmerly",
       "source": "./",
       "description": "Warmerly MCP server and skills for outreach campaigns, deliverability, reply triage and transactional email.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "Warmerly",
         "url": "https://warmerly.com"

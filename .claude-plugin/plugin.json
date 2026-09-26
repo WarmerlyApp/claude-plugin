@@ -1,6 +1,6 @@
 {
   "name": "warmerly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connect Claude to your Warmerly workspace over MCP, with skills for launching cold outreach campaigns, diagnosing deliverability, triaging replies and setting up transactional email.",
   "author": {
     "name": "Warmerly",
@@ -16,5 +16,7 @@
     "mcp"
   ],
   "repository": "https://github.com/WarmerlyApp/claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "assets/icon.svg",
+  "privacyPolicyUrl": "https://warmerly.com/privacy"
 }
