@@ -13,9 +13,10 @@
       "version": "0.1.2",
       "author": {
         "name": "Warmerly",
+        "email": "hello@warmerly.com",
         "url": "https://warmerly.com"
       },
-      "homepage": "https://warmerly.com",
+      "homepage": "https://warmerly.com/ai",
       "category": "productivity",
       "keywords": [
         "email",
